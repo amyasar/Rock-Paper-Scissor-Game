@@ -1,4 +1,4 @@
-#🪨📄✂️ Rock Paper Scissor Game
+**🪨📄✂️ Rock Paper Scissor Game:**
 A simple Rock, Paper, Scissors game built with Python that lets you play against the computer!
 
 🎮 How It Works
